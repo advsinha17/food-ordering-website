@@ -1,6 +1,7 @@
 <div align="center">
-# Food Ordering
 
+# Food Ordering Website
+    
 A simple food ordering website built with React and firebase.
 
 <img width="1140" alt="food-demo" src="https://user-images.githubusercontent.com/48688238/227130544-4a5fb07a-2835-43ba-be3d-4a24f0651282.png">
